@@ -104,7 +104,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="NotificationsHub.cs" />
-    <Compile Include="Notification.cs" />
+    <Compile Include="NotificationMessage.cs" />
     <Compile Include="NotificationsController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -10,7 +10,7 @@ namespace NotificationHub
         /// <summary> The event that happened </summary>
         public string Action { get; private set; }
 
-        public NotificationMessage(String person, String action, DateTime at)
+        public NotificationMessage(String person, String action)
         {
             this.Person = person;
             this.Action = action;
